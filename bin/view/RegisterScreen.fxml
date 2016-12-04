@@ -9,7 +9,7 @@
 
 <Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.102" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.RegisterController">
    <children>
-      <Label layoutX="158.0" layoutY="108.0" text="New Student Registeration" textFill="#c7b877">
+      <Label layoutX="158.0" layoutY="108.0" text="New Student Registration" textFill="#c7b877">
          <font>
             <Font size="41.0" />
          </font>
